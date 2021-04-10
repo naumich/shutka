@@ -1,0 +1,114 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	font-family: 'Montserrat', sans-serif;
+	color: #fff;
+}
+
+h2 {
+	font-style: normal;
+	font-weight: bold;
+	font-size: 70px;
+	line-height: 85px;
+}
+
+.text1, .text3, .table, .text5, .href {
+	font-size: 36px;
+	line-height: 44px;
+}
+
+.text1, .text2, .text3, .table, .text4, .text5 {
+	position: absolute;
+	margin-left: 73px;	
+}
+
+main {
+	background-color: #000;
+	position: relative;
+	width: auto;
+	height: 2815px;
+}
+
+.zagolovok {
+	width: 1000px;
+	height: 1136px;
+	position: absolute;
+	background-image: url(../img/andrew-neel-fGvXxVxmTi8-unsplash.jpg);
+}
+
+.text {
+	width: 853px;
+	height: 170px;
+	margin-top: 105px;
+	margin-left: 73px;
+}
+
+.frame {
+	width: 1000px;
+	height: 2815px; 
+}
+
+.text1 {
+	width: 523px;
+	height: 44px;
+	margin-top: 1264px;
+	font-weight: normal;
+	color: #BCBBBB;
+}
+
+.text2 {
+	width: 853px;
+	height: 170px;
+	margin-top: 1398px; 
+}
+
+.text3 {
+	width:853px; 
+	height: 44px;
+	margin-top: 1658px;
+	font-style: italic;
+	font-weight: bold; 
+}
+
+.table {
+	width: 853px;
+	height: 176px;
+	margin-top: 1722px;
+	font-weight: 500px;
+
+}
+
+.text4 {
+	width: 853px;
+	height: 85px;
+	margin-top: 1960px;
+	font-size: 70px;
+	line-height: 85px;
+	font-weight: 500px;
+}
+
+.text5 {
+	width: 811px;
+	height: 484px;
+	margin-top: 2093px;
+}
+
+.href {
+	position: absolute;
+	width: 853px;
+	height: 44px;
+	margin-left: 83px;
+	margin-top: 2667px;
+	font-weight: 500px;
+}
+
+.color, a {
+	color: #F66C41;
+}
+
+#line-through {
+	text-decoration: line-through;
+}
